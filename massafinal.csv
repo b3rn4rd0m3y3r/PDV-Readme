@@ -1,0 +1,96 @@
+A001;Vassoura de pelo;J001;20.85
+A001;Vassoura de pelo;J002;21.49
+A001;Vassoura de pelo;J015;28.15
+A002;Vassoura de pia‡ava;J001;16.52
+A002;Vassoura de pia‡ava;J002;20.86
+A002;Vassoura de pia‡ava;J015;16.93
+A003;Detergente Uai;J001;10.24
+A003;Detergente Uai;J002; 7.69
+A003;Detergente Uai;J015; 8.94
+A004;Detergente Ipˆ;J001; 8.76
+A004;Detergente Ipˆ;J002; 9.83
+A004;Detergente Ipˆ;J015;10.46
+A005;Balde 10 L;J001;17.46
+A005;Balde 10 L;J002;13.59
+A005;Balde 10 L;J015;17.36
+A006;Balde 20 L;J001;16.76
+A006;Balde 20 L;J002;20.05
+A006;Balde 20 L;J015;19.57
+A007;Balde 30 L;J001;19.99
+A007;Balde 30 L;J002;17.94
+A007;Balde 30 L;J015;21.53
+A008;Pano pequeno;J001; 4.13
+A008;Pano pequeno;J002; 4.71
+A008;Pano pequeno;J015; 3.08
+A009;Pano grande;J001; 7.54
+A009;Pano grande;J002;10.20
+A009;Pano grande;J015; 7.07
+A010;Sab„o barra Ipˆ;J001; 3.44
+A010;Sab„o barra Ipˆ;J002; 2.20
+A010;Sab„o barra Ipˆ;J015; 2.97
+A011;Sab„o barra Minerva;J001; 4.02
+A011;Sab„o barra Minerva;J002; 5.71
+A011;Sab„o barra Minerva;J015; 6.59
+B001;Sacola pl stica 2Kg (cento);J005;21.04
+B001;Sacola pl stica 2Kg (cento);J006;20.88
+B001;Sacola pl stica 2Kg (cento);J016;21.63
+B002;Sacola pl stica 5Kg (cento);J005;29.50
+B002;Sacola pl stica 5Kg (cento);J006;25.64
+B002;Sacola pl stica 5Kg (cento);J016;29.30
+B003;Sacola reciclado 5Kg;J005;10.12
+B003;Sacola reciclado 5Kg;J006; 8.30
+B003;Sacola reciclado 5Kg;J016; 7.78
+B004;Sacola reciclado 10Kg;J005;16.97
+B004;Sacola reciclado 10Kg;J006;11.97
+B004;Sacola reciclado 10Kg;J016;15.25
+B005;Barbante rolo 50m;J005; 6.00
+B005;Barbante rolo 50m;J006; 6.87
+B005;Barbante rolo 50m;J016; 6.43
+B006;Barbante rolo 100m;J005; 7.32
+B006;Barbante rolo 100m;J006; 7.63
+B006;Barbante rolo 100m;J016; 8.68
+B007;Barbante rolo 150m;J005;11.12
+B007;Barbante rolo 150m;J006; 9.23
+B007;Barbante rolo 150m;J016;10.53
+B008;Tesoura pequena;J005;10.78
+B008;Tesoura pequena;J006;11.10
+B008;Tesoura pequena;J016;12.55
+B009;Tesoura m‚dia;J005;14.24
+B009;Tesoura m‚dia;J006;12.20
+B009;Tesoura m‚dia;J016;14.34
+B010;Tesoura grande;J005;16.39
+B010;Tesoura grande;J006;16.19
+B010;Tesoura grande;J016;16.80
+C001;Pacote papel A4 50 fls;J010;17.77
+C001;Pacote papel A4 50 fls;J011;21.27
+C001;Pacote papel A4 50 fls;J017;19.42
+C002;Pacote papel A4 500 fls;J010;37.50
+C002;Pacote papel A4 500 fls;J011;34.18
+C002;Pacote papel A4 500 fls;J017;35.73
+C003;Rolo fita Durex 100m;J010; 6.83
+C003;Rolo fita Durex 100m;J011; 7.35
+C003;Rolo fita Durex 100m;J017; 8.81
+C004;Rolo fita Durex 300m;J010;11.43
+C004;Rolo fita Durex 300m;J011;13.27
+C004;Rolo fita Durex 300m;J017;15.73
+C005;Rolo fita Crepe 100m;J010; 5.71
+C005;Rolo fita Crepe 100m;J011; 4.24
+C005;Rolo fita Crepe 100m;J017; 4.03
+C006;Rolo fita crepe 300m;J010;10.70
+C006;Rolo fita crepe 300m;J011;12.60
+C006;Rolo fita crepe 300m;J017;11.31
+C007;Papel Craft folha pequena;J010; 2.77
+C007;Papel Craft folha pequena;J011; 2.87
+C007;Papel Craft folha pequena;J017; 2.38
+C008;Papel Craft folha grande;J010; 4.89
+C008;Papel Craft folha grande;J011; 4.60
+C008;Papel Craft folha grande;J017; 4.68
+C009;Grampeador pequeno;J010; 7.89
+C009;Grampeador pequeno;J011; 7.17
+C009;Grampeador pequeno;J017; 7.20
+C010;Grampeador m‚dio;J010;11.96
+C010;Grampeador m‚dio;J011;12.26
+C010;Grampeador m‚dio;J017;13.71
+C011;Grampeador grande;J010;15.63
+C011;Grampeador grande;J011;18.34
+C011;Grampeador grande;J017;17.93

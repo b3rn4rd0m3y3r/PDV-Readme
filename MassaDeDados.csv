@@ -1,24 +1,24 @@
 Cod;Produto;Fornecedor1;Fornecedor2;Fornecedor3;PrecoMin;PrecoMax
 A001;Vassoura de pelo;J001;J002;J015;18;30
-A002;Vassoura de piaçava;J001;J002;J015;15;25
+A002;Vassoura de pia‡ava;J001;J002;J015;15;25
 A003;Detergente Uai;J001;J002;J015;7;11
-A004;Detergente Ipê;J001;J002;J015;8;13
+A004;Detergente Ipˆ;J001;J002;J015;8;13
 A005;Balde 10 L;J001;J002;J015;12;18
 A006;Balde 20 L;J001;J002;J015;15;23
 A007;Balde 30 L;J001;J002;J015;17;26
 A008;Pano pequeno;J001;J002;J015;3;5
 A009;Pano grande;J001;J002;J015;7;12
-A010;Sabão barra Ipê;J001;J002;J015;2;4
-A011;Sabão barra Minerva;J001;J002;J015;3;7
-B001;Sacola plástica 2Kg (cento);J005;J006;J016;18;22
-B002;Sacola plástica 5Kg (cento);J005;J006;J016;23;30
+A010;Sab„o barra Ipˆ;J001;J002;J015;2;4
+A011;Sab„o barra Minerva;J001;J002;J015;3;7
+B001;Sacola pl stica 2Kg (cento);J005;J006;J016;18;22
+B002;Sacola pl stica 5Kg (cento);J005;J006;J016;23;30
 B003;Sacola reciclado 5Kg;J005;J006;J016;7;11
 B004;Sacola reciclado 10Kg;J005;J006;J016;11;17
 B005;Barbante rolo 50m;J005;J006;J016;5;7
 B006;Barbante rolo 100m;J005;J006;J016;7;10
 B007;Barbante rolo 150m;J005;J006;J016;9;12
 B008;Tesoura pequena;J005;J006;J016;10;14
-B009;Tesoura média;J005;J006;J016;12;17
+B009;Tesoura m‚dia;J005;J006;J016;12;17
 B010;Tesoura grande;J005;J006;J016;16;21
 C001;Pacote papel A4 50 fls;J010;J011;J017;13;25
 C002;Pacote papel A4 500 fls;J010;J011;J017;32;40
@@ -29,5 +29,5 @@ C006;Rolo fita crepe 300m;J010;J011;J017;10;13
 C007;Papel Craft folha pequena;J010;J011;J017;2;3
 C008;Papel Craft folha grande;J010;J011;J017;3;5
 C009;Grampeador pequeno;J010;J011;J017;6;8
-C010;Grampeador médio;J010;J011;J017;11;14
+C010;Grampeador m‚dio;J010;J011;J017;11;14
 C011;Grampeador grande;J010;J011;J017;15;19
