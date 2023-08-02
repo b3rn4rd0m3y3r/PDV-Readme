@@ -1,0 +1,20 @@
+{
+	"titulo": "Controle de Produtos",
+	"subtitulo": "Entrada, Alteração, Pesquisa e Deleção de Produtos",
+	"tabela": "Produtos",
+	"permissao" : {
+		"add": "S",
+		"dele": "N",
+		"edit": "S",
+		"list": "S",
+		"view": "S"
+		},
+	"email": "true",
+	"campos": {
+		"0": {"nome": "Id", "label": "Id", "tam": "6", "tamtot": "6", "tipo": "I", "coduser": "0"},
+		"1": {"nome": "Cod", "label": "C&oacute;digo", "tam": "6", "tamtot": "6", "tipo": "C", "coduser": "1"},
+		"2": {"nome": "Descri", "label": "Descri&ccedil;&atilde;o", "tam": "50", "tamtot": "50", "tipo": "C", "coduser": "1"},
+		"3": {"nome": "CodForn", "label": "Codigo do Fornecedor", "tam": "5", "tamtot": "5", "tipo": "C", "coduser": "1"},
+		"4": {"nome": "PrecoUnit", "label": "Pre&ccedil;o Unit&aacute;rio", "tam": "10", "tamtot": "10", "tipo": "N", "coduser": "1"}
+		}
+	}
